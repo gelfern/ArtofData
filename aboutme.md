@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Naomi
+subtitle: Life as an Art of Data Student 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+This is Naomi speaking! 
+Just submitted my first Art of Data lab assignment! 
+Honestly, I had no idea what Digimon even were until like a week or two ago!
+#computerscienceisthebomb 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
+<!---
+Original code 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+-->
