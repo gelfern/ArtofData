@@ -5,12 +5,8 @@ subtitle: An artist of Data
 ---
 
 I am a woman drawn to STEM, enticed by the world of science and its promises. 
-If you don't know me, and your only window into me is this wonderful (aesthetically pleasing) website and my epic solution to Lab 1, here are some facts (not opinions) 
-Facts: ((Best movie: A Beautiful Mind) , (Best book: The Picture of Dorian Gray OR The Fabric of the Cosmos (Brian Greene) (if you're in a STEM-Y kinda mood)) , (Best food: Grandma's squash soup) , (Best drink: Shirley Temple) , (Best website: this one duh) , (Best class: Art of Data) , (Best snack: A vat of nutella in bed) (Best pinterest: THE PLUG IN MY NAVBAR CLICK ON IT NOWWWW))
 
-If you have any questions let me know, I will be more than happy to discuss with you... 
-
-
+However, using this space to say that while this website is THE greatest creation to date, so is all of nature. Feeling like posting some of my fav flicks here <3 (yes I took these all ...) 
 
 <!---
 Original code 
