@@ -6,7 +6,7 @@ subtitle: An artist of Data
 
 I am a woman drawn to STEM, enticed by the world of science and its promises. 
 
-However, I'm using this space to say that while this website is THE greatest creation to date, so is all of nature. Just because I can, here are some photos taken on my 16th birthday this year (August 9th) in Usuaia, Argentina. Proud to say this was the best day of my life :) 
+However, I'm using this space to say that while this website is THE greatest creation to date, so is all of nature. Just because I can, here are some photos taken on my 16th birthday this year (August 9th) in Ushuaia, Argentina. Proud to say this was the best day of my life :) 
 
 ![skisON](../assets/img/skiBackOn.jpg)
 ![standinbear](../assets/img/standingBear.jpg)
