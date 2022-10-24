@@ -133,8 +133,8 @@ text-col: "#621b00" #new brown
 link-col: "#7209b7" #deep purple 
 hover-col: "#967aa1" #purple more like curtain 
 footer-col: "#644234" #brown 
-footer-text-col: "#af5500" 
-footer-link-col: "#644234"
+footer-text-col: "#f0e5e1" 
+footer-link-col: "#f0e5e1"
 footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
