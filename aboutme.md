@@ -8,7 +8,14 @@ I am a woman drawn to STEM, enticed by the world of science and its promises.
 
 However, I'm using this space to say that while this website is THE greatest creation to date, so is all of nature. Just because I can, here are some photos taken on my 16th birthday this year (August 9th) in Usuaia, Argentina. Proud to say this was the best day of my life :) 
 
-<img src="{{ 'assets/img/PHIl.jpg' | relative_url }}" alt="PHIL" --/> 
+![skisON](../assets/img/skiBackOn.jpg)
+![standinbear](../assets/img/standingBear.jpg)
+![sun1](../assets/img/sun1.jpg)
+![UP](../assets/img/UP.jpg)
+![farstanding](../assets/img/farStandBear.jpg)
+![sun2](../assets/img/sun2.jpg)
+![sun3](../assets/img/sun3.jpg)
+![PHIL](../assets/img/PHIL.jpg)
 
 
 <!---
