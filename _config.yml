@@ -129,12 +129,12 @@ navbar-col: "#644234" #dark brown
 navbar-text-col: "#f0e5e1" #very light brown 
 navbar-border-col: "#36241c" #very dark brown
 page-col: "#e6d5ce" #light brown 
-text-col: "#404040" #original brown
+text-col: "#621b00" #new brown
 link-col: "#7209b7" #deep purple 
 hover-col: "#967aa1" #purple more like curtain 
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-col: "#644234" #brown 
+footer-text-col: "#af5500" 
+footer-link-col: "#644234"
 footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
