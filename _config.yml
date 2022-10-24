@@ -128,7 +128,7 @@ navbar-var-length: false
 navbar-col: "#E6E6FA" #lavender allegedly 
 navbar-text-col: "#404040" #
 navbar-border-col: "#cfbaf0" #
-page-col: "#feeafa"
+page-col: "#ee6c4d"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
