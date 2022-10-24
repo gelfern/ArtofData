@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Naomi: Conceptuatlized 
+title: Naomi, Conceptuatlized 
 subtitle: An artist of Data 
 ---
 
