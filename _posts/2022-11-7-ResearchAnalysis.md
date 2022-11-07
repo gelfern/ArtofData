@@ -2,7 +2,7 @@
 layout: post
 title: Check
 subtitle: Solutions to Lab 1
-tags: [Post] [Analysis] [Scientific Research] 
+tags: [Post] 
 comments: true
 ---
 
