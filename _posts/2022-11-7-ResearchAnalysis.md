@@ -12,38 +12,38 @@ In this post, I analyze a scientific report published in 2021 regarding the usag
 
 Let's dive in... 
 
-## 1. What are the null and alternative hypotheses?
+### 1. What are the null and alternative hypotheses?
 
 
 
-## 2. Who is collecting and analyzing this data?
+### 2. Who is collecting and analyzing this data?
 
 
 
-## 3. What datasets does this study reference or use? Are these datasets available to the public?
+### 3. What datasets does this study reference or use? Are these datasets available to the public?
 
 
 
-## 4. Why are they interested in this data?
+### 4. Why are they interested in this data?
 
 
 
 
-## 5. What data is being recorded? What data might be left out?
+### 5. What data is being recorded? What data might be left out?
 
 
 
-## 6. What evidence did they present to back up their conclusions?
+### 6. What evidence did they present to back up their conclusions?
 
 
 
-## 7. How was this study funded?
+### 7. How was this study funded?
 
 
 
-## 8. Do you think publish or perish had an effect on this study?
+### 8. Do you think publish or perish had an effect on this study?
 
 
 
-## Thank you for your consideration of how the general public can best mitigate and understand how data is being used in the scientific world and what studies are being carried out in the name of science. 
+### Thank you for your consideration of how the general public can best mitigate and understand how data is being used in the scientific world and what studies are being carried out in the name of science. 
 Link to original article: https://www.nejm.org/doi/full/10.1056/NEJMoa2031054 
