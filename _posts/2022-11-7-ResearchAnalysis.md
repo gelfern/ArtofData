@@ -1,15 +1,49 @@
 ---
 layout: post
-title: Check
-subtitle: Solutions to Lab 1
+title: Research Meta Analysis
+subtitle: Data and its limitations in scientific studies
 tags: [Post] 
 comments: true
 ---
 
-# Into the Digi-Verse
+# CRISPR-Cas9 Gene Editing for Sickle Cell Disease and β-Thalassemia
 
-**Lab 1** presented me with a series of tasks; out I emerge victorious and near-fluent in the intricacies of the Digimon and how to sift through data on them.
+In this post, I analyze a scientific report published in 2021 regarding the usage of CRISPR gene-editing techniques to bolster the production of fetal hemoglobin in patients with Sickle Cell Disease and Transfusion-dependent β-Thalassemia. The overarching goal of this assignment is for to develop an understanding of how to critically examine scientific studies and analyze datasets.
 
-This posts guides all readers through my thought processes and questions, a manifestation of my perseverance, as I worked to complete Lab 1. 
+Let's dive in... 
 
-Let's begin with question 1...
+## 1. What are the null and alternative hypotheses?
+
+
+
+## 2. Who is collecting and analyzing this data?
+
+
+
+## 3. What datasets does this study reference or use? Are these datasets available to the public?
+
+
+
+## 4. Why are they interested in this data?
+
+
+
+
+## 5. What data is being recorded? What data might be left out?
+
+
+
+## 6. What evidence did they present to back up their conclusions?
+
+
+
+## 7. How was this study funded?
+
+
+
+## 8. Do you think publish or perish had an effect on this study?
+
+
+
+## Thank you for your consideration of how the general public can best mitigate and understand how data is being used in the scientific world and what studies are being carried out in the name of science. 
+Link to original article: https://www.nejm.org/doi/full/10.1056/NEJMoa2031054 
