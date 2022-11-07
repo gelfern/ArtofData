@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research Meta Analysis
-subtitle: Data and its limitations in scientific studies
+subtitle: Data and its Limitations in Scientific Studies
 tags: [Post] 
 comments: true
 ---
