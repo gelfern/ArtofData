@@ -12,8 +12,12 @@ In this post, I analyze a scientific report published in 2020 regarding the usag
 
 Let's dive in... 
 
-CTX00: Autologous CRISPR-Cas9-edited CD34+ cells that were genetically edited to reactivate the production of fetal hemoglobin
+CTX001: Autologous CRISPR-Cas9-edited CD34+ cells that were genetically edited to reactivate the production of fetal hemoglobin
+
+
 TDT: Transfusion-dependent β-thalassemia
+
+
 SCD: Sickle cell disease
 
 ### 1. What are the null and alternative hypotheses?
