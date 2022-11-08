@@ -21,7 +21,7 @@ Alternative hypothesis: Infusing CRISPR-Cas9 edited CD34+ cells at the erythroid
 
 ### 2. Who is collecting and analyzing this data?
 
-
+This paper was written by 26 authors and it is implied that they collectively produced and analyzed the data. Specifically, while they are listed at the top of the study, directly below its title, it cannot be confirmed which of the authors actually collected the data and which analyzed it; throughout the methodology and discussion of the study, the authors describe themselves as “we” and discuss their data by saying “our,” meaning that the paper does not provide information on who was actually conducting the scientific procedures and who was analyzing implications of the data. I find this as problematic, because even though the authors' general credentials are listed, it is unclear which supposedly qualified researcher was collecting/analyzing the data.  
 
 ### 3. What datasets does this study reference or use? Are these datasets available to the public?
 
