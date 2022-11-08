@@ -14,6 +14,9 @@ Let's dive in...
 
 ### 1. What are the null and alternative hypotheses?
 
+Null hypothesis: Infusing CRISPR-Cas9 edited CD34+ cells at the erythroid-specific enhancer region (BCL11A) for the reduction of BCL11A expression into patients with TDT and SCD does not reactivate fetal hemoglobin production, therefore doing nothing to combat the severe diseases. 
+
+Alternative hypothesis: Infusing CRISPR-Cas9 edited CD34+ cells at the erythroid-specific enhancer region (BCL11A) for the reduction of BCL11A expression into patients with TDT and SCD reactivates fetal hemoglobin production to combat the severe diseases. 
 
 
 ### 2. Who is collecting and analyzing this data?
