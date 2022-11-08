@@ -62,4 +62,9 @@ In my opinion, publish or perish did have an effect on this study. My main reaso
 
 
 ### Thank you for your consideration of how the general public can best mitigate and understand how data is being used in the scientific world and what studies are being carried out in the name of science. 
-Link to original article: https://www.nejm.org/doi/full/10.1056/NEJMoa2031054 
+
+Citation:
+Haydar Frangoul, M.D., David Altshuler, M.D., Ph.D., M. Domenica Cappellini,
+     M.D., Yi-Shan Chen, Ph.D., et al. CRISPR-Cas9 Gene Editing for Sickle Cell
+     Disease and β-Thalassemia. (2021). The New England Journal of Medicine.
+     https://www.nejm.org/doi/full/10.1056/NEJMoa2031054
