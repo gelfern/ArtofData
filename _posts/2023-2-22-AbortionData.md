@@ -1,6 +1,6 @@
 ---
 layout: post
 title: Abortion Placeholder
-subtitle: Solutions to Lab 1
+subtitle: Preparing a dataset for analysis
 comments: true
 ---
