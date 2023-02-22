@@ -6,7 +6,7 @@ tags: [Post]
 comments: true
 ---
 
-# CRISPR-Cas9 Gene Editing for Sickle Cell Disease and β-Thalassemia
+# Gene Editing for Sickle Cell Disease and β-Thalassemia
 
 In this post, I analyze a scientific report published in 2020 regarding the usage of CRISPR gene-editing techniques to bolster the production of fetal hemoglobin in patients with Sickle Cell Disease and Transfusion-dependent β-Thalassemia. The overarching goal of this assignment is for to develop an understanding of how to critically examine scientific studies and analyze datasets.
 
