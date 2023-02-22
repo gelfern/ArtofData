@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Abortion Placeholder
-thumbnail-img: /assets/img/ByBodyMyChoice.jpg
 subtitle: Preparing a dataset for analysis
+thumbnail-img: /assets/img/ByBodyMyChoice.jpg
 cover-img: /assets/img/preRoe.jpg
 tags: [Lab]
 comments: true
