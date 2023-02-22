@@ -7,7 +7,8 @@ cover-img: /assets/img/preRoe.jpg
 tags: [Lab]
 comments: true
 ---
-# “Choice” is dignity. Moreover, “choice” is freedom. 
+# “Choice” is dignity. 
+# Moreover, “choice” is freedom. 
 
 ### Introduction
 I simply cannot resist a brief history lesson -- the story of Roe v. Wade fascinates me:  
