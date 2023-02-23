@@ -32,16 +32,27 @@ First of all, in 2020, about [62.8%](https://www.pewresearch.org/fact-tank/2022/
 Second, as both biological men and women can vote, the opinions of both biological men and women are included in the poll I am analyzing. However, as I am a firm believer in the fact that the choice to have an abortion must only involve the desires of the woman who is considering having one, and, moreover, that abortion is not at all a political issue, but one of basic women's health, I acknowledge that the question posed by this poll is one I inherently have problems with because it automatically frames abortion as a legal issue to be decided by the men (and women) in government. Still, I am very interested in extrapolating from this data to provide myself with a more objective understanding of America's views on abortion, in place of the heavily biased information I consume through the media. 
 
 The program below utilizes the pandas .describe() function to calculate the mean, minimum value, and maximum value of the percentages of people affiliated with each category of the poll. 
+
 ![FURY](../assets/img/CodeDescribe.jpg)
 
 ![FURY](../assets/img/describe.jpg)
+
 To me, one of the most interesting pieces of data from this calculation is the mean percentage of Americans who believe that abortion should be legal only under certain circumstances (ie. during the first trimester of pregnancy, as established by _Roe v. Wade_), which equals about 53%. In my personal experience, abortion feels like a heavily polarized issue, with people either agressively arguing its immoraility and describing it as murder, or people expressing that they feel entirely unentitled to even have a personal opinion on the issue, effectively leaving abortion in the hands of women who choose to have one. Still, during the period of time when the _Roe v. Wade_ decision remained effective in America, about half of Americans shared a sentiment that reflected the Supreme Court's decision. Moreover, the maxiumum percent of Americans believing that abortion should be entirely illigal (even in the cases of sexual abuse or incest) reached 23%, with a minumum value of 12% over the course of 1975 through 2022. While I find that any amount of people that feel entitled to claim that abortion should be illigal in every circumstance is alarming, the amount of Americans that feel this way has never exceeded 2/5 of the country. Therefore, I am compelled to ask why [12 states](https://www.guttmacher.org/2023/01/six-months-post-roe-24-us-states-have-banned-abortion-or-are-likely-do-so-roundup) -- about 25 percent of the country -- have essentially total abortion bans in effect, when not more than 23% of American voters have ever felt that abortions should be entirely illegal. Also, as about [58%](https://www.guttmacher.org/united-states/abortion?gclid=Cj0KCQiAutyfBhCMARIsAMgcRJTMC4JZM1W2Oybb3jYIoQPQ9CX1VyTjbG4049Ydp-TdSEUFOFFaqtUaApDGEALw_wcB) of women ages 13-44 live in a state hostile or extremely hostile to abortion rights, I wonder how the (mean) 18% of Americans (both biological men and women) have their minority sentiment as the law in effect within 12 states, threatening over half of America’s female population. 
 
 
 Next, I created a copy of the dataset containing the responses to **Question 1** to only include data on the years included on the x-axis of the layered bar chart below. 
 
-**Why the dates?**
-* 1975: Two years after 
+*Why the specific (dates)[https://www.plannedparenthoodaction.org/issues/abortion/abortion-central-history-reproductive-health-care-america/historical-abortion-law-timeline-1850-today]?*
+* 1975: Two years after _Roe v. Wade_ and also the earliest year during which the datasets I'm using have poll responses 
+* 1985: One year after the **Global Gag Rule**, (the dataset did not have poll responses from 1984) introduced by Ronald Reagan in Mexico City. This Mexico City Policy prevented foreign organizations that receive U.S. health aid from providing information on and referrals for abortions or advocating for abortion access, which has since been repeadedly rescinded and reinstated depending on the U.S. president in power. 
+* 1992: _Planned Parenthood of Southeastern Pennsylvania v. Casey_, which reaffirmed that the U.S. Constitution protects the right to an abortion. This case created an "undue burden" framework, under which laws restricting access to abortion could be judged, leading to state politicians passing numerous medically unnecessary abortion restrictions across the country which courts have found do not impose an undue burden. 
+* 2007: _Gonzales v. Carhart and Gonzales v. Planned Parenthood Federation of America_, where the Supreme Court upheld the first federal legislation to criminalize abortion, which allowed Congress to ban certain second-trimester abortion procedures (which are sometimes the safest and best way to protect a patient’s health). This case overruled a critical component of _Roe v. Wade_, which has expressed the importance of a patient’s health in laws that restrict abortion access.
+* 2016: _Whole Woman's Health v. Hellerstedt_, where the Supreme Court ruled that two Texas abortion restrictions were unconstitutional because they would shut down most abortion providers in the state and impose an "undue burden" on safe abortion access in the state. 
+* 2020: _June Medical Services v. Russo_, where the Supreme Court struck down a medically unnecessary law restricting abortions. 
+* 2022: _Dobbs v. Jackson Women's Health Organization_, where the Supreme Court effectively overturned _Roe v. Wade_ and decided that the U.S. Constitution does not confer a right to abortion. 
+
+
+Below is the code I wrote to generate the stacked bar chart as well as the graph, itself. 
 ![legalcode](../assets/img/CodeLegal.jpg)
 
 ![legal](../assets/img/legalfinal.jpg)
