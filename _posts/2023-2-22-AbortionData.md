@@ -42,7 +42,7 @@ To me, one of the most interesting pieces of data from this calculation is the m
 
 Next, I created a copy of the dataset containing the responses to **Question 1** to only include data on the years included on the x-axis of the layered bar chart below. 
 
-Why the specific (dates)[https://www.plannedparenthoodaction.org/issues/abortion/abortion-central-history-reproductive-health-care-america/historical-abortion-law-timeline-1850-today]?
+Why the specific [dates](https://www.plannedparenthoodaction.org/issues/abortion/abortion-central-history-reproductive-health-care-america/historical-abortion-law-timeline-1850-today)?
 * 1975: Two years after _Roe v. Wade_ and also the earliest year during which the datasets I'm using have poll responses 
 * 1985: One year after the **Global Gag Rule**, (the dataset did not have poll responses from 1984) introduced by Ronald Reagan in Mexico City. This Mexico City Policy prevented foreign organizations that receive U.S. health aid from providing information on and referrals for abortions or advocating for abortion access, which has since been repeadedly rescinded and reinstated depending on the U.S. president in power. 
 * 1992: _Planned Parenthood of Southeastern Pennsylvania v. Casey_, which reaffirmed that the U.S. Constitution protects the right to an abortion. This case created an "undue burden" framework, under which laws restricting access to abortion could be judged, leading to state politicians passing numerous medically unnecessary abortion restrictions across the country which courts have found do not impose an undue burden. 
@@ -80,27 +80,24 @@ Moreover, between 2007 (when the Supreme Court upheld the first federal legislat
 Specifically, while I, in doing this project, cannot prove a causal relationship between these two factors (abortion legislation and a citizen's approval/satisfaction), I am extremely interested in further exploring this correlational relationship and diving deeper into the nuances of state-by-state abortion legislation, and the sentiments of the American public during the 20th century. 
 
 
-Next (political) 
+Because I observed a correlation between the U.S. government passing more restrictions on abortion and the public's diminishing satisfaction with the nation's rapidly changing policies, I began thinking about the main way that we, the people, can express our power over our government -- voting. Therefore, I separated one dataset into two graphs that described how a political candidate's position on abortion would affect/affects an American citizen's vote. The first graph displays data for this question for American adults (whether or not they are registered voters) and the second graph displays data for this question only for registered voters. 
+Effectively, if such a small "chunk" of our country is satisfied with how America is handling the legality of abortion, I was interested to see how this translates into importance of abortion as a legal issue, especially if potential candiates would pose threats to abortion rights. 
+
 ![adultscode](../assets/img/nationaladults.jpg)
 
 ![Adultsgraph](../assets/img/nationaladultsgraph.jpg)
+
 
 ![FURY](../assets/img/CodeRegistered.jpg)
 
 ![Voters](../assets/img/Voters.jpg)
 
-Analysis. 
+In reflection, between the years of 1996 (the earliest year for which my dataset had poll responses) and 2022, the importance of a political candidate's view on abortion visibly grew for all national adults -- registered or not --(the bright pink section of the layered bar charts), in tandem with the U.S. government enforcing more restrictions on abortions and the American public growing less satisfied with the nation's policies on abortion. 
 
-(limitations) 
-(not all people, don't have much information on how the data was collcted)
+My hope for the future, after visualizing the changes in how American citizens value political candidates' positions on abortion (especially after seeing that the graphs for all adults and just registered voters look quite similar), is that not only will more adults register to vote, but that more adults will perceive abortion as under and existential threat. The future of women's reproductive health is truly in the hands of the American public. 
 
-(conslusion)
-- correlation/people at least have some opnions (very little NO opinion)
-
-
-
-
-
+### Limitations
+Though I have already discussed some existing with the datasets I have used to complete this lab, I think that the largest limitation is that while Gallup is an acclaimed and verifiable accurate source of global analytics data, it is currently unclear to me exactly how the data I used was collected, and how I can be sure that as many sources of bias as possible have been dealt with. Therefore, I have completed this lab under the assumption that the data I am visualizing is not completely accurate, but can provide an accurate generalization of the American sentiment on a variety of questions.  
 
 
 
