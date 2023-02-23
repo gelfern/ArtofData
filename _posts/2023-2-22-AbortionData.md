@@ -26,18 +26,18 @@ As explained by [Justin Oh](https://www.kaggle.com/justin2028), who put together
 
 ![FURY](../assets/img/describe.jpg)
 
-![FURY](../assets/img/CodeLegal.jpg)
+![legalcode](../assets/img/CodeLegal.jpg)
 
-![Legal?](../assets/img/Legal?.jpg)
+![legal?](../assets/img/legalfinal?.jpg)
 
 
-![FURY](../assets/img/CodeSatisfied.jpg)
+![satisfied](../assets/img/CodeSatisfied.jpg)
 
 ![Satisfied](../assets/img/Satisfied.jpg)
 
-![FURY](../assets/img/CodeAdults.jpg)
+![adultscode](../assets/img/nationaladults.jpg)
 
-![Adults](../assets/img/Adults.jpg)
+![Adultsgraph](../assets/img/nationaladultsgraph.jpg)
 
 ![FURY](../assets/img/CodeRegistered.jpg)
 
