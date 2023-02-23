@@ -63,7 +63,8 @@ Next, I decided to assess Americans' views on if abortion was morally wrong, and
 
 ![Morals](../assets/img/MorallyAcceptable.jpg)
 
-ANALYSIS
+My main takeaway from this bar chart is that between 2007 (when the Supreme Court first upheld legislation to criminalize abortion) and 2020 (when the Supreme Court decided that the U.S. Constitution does not protect the right to an abortion), the American public's view that abortions are morally wrong visibly declined. It is interesting to see how while Americans see abortion as less and less of a moral issue, the U.S. federal government has relinquished its authority to protect its legality and several state governments have taken it upon themselves to enforce near total bans on abortions. 
+
 
 
 At this point, I became interested in not only the American sentiment on the deserved legality and morality of abortion, but also how we (as citizens entitled and encouraged to engage civically) express our satisfaction with and opinions on abortion laws in our country. 
