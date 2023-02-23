@@ -22,8 +22,15 @@ As explained by [Justin Oh](https://www.kaggle.com/justin2028), who put together
 ![FURY](../assets/img/fury.jpg)
 
 
+![Legal?](../assets/img/Legal?.jpg)
 
+![Satisfied](../assets/img/Satisfied.jpg)
 
+![Adults](../assets/img/Adults.jpg)
+
+![Voters](../assets/img/Voters.jpg)
+
+![Morals](../assets/img/MorallyAcceptable.jpg)
 (data analyssi)
 
 
