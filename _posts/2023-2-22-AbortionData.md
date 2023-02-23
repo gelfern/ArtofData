@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Abortion Placeholder
+title: The American View on Abortion (1975-2022)
 subtitle: Preparing a dataset for analysis
 thumbnail-img: /assets/img/ByBodyMyChoice.jpg
 cover-img: /assets/img/preRoe.jpg
