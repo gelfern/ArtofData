@@ -42,7 +42,7 @@ To me, one of the most interesting pieces of data from this calculation is the m
 
 Next, I created a copy of the dataset containing the responses to **Question 1** to only include data on the years included on the x-axis of the layered bar chart below. 
 
-*Why the specific (dates)[https://www.plannedparenthoodaction.org/issues/abortion/abortion-central-history-reproductive-health-care-america/historical-abortion-law-timeline-1850-today]?*
+Why the specific (dates)[https://www.plannedparenthoodaction.org/issues/abortion/abortion-central-history-reproductive-health-care-america/historical-abortion-law-timeline-1850-today]?
 * 1975: Two years after _Roe v. Wade_ and also the earliest year during which the datasets I'm using have poll responses 
 * 1985: One year after the **Global Gag Rule**, (the dataset did not have poll responses from 1984) introduced by Ronald Reagan in Mexico City. This Mexico City Policy prevented foreign organizations that receive U.S. health aid from providing information on and referrals for abortions or advocating for abortion access, which has since been repeadedly rescinded and reinstated depending on the U.S. president in power. 
 * 1992: _Planned Parenthood of Southeastern Pennsylvania v. Casey_, which reaffirmed that the U.S. Constitution protects the right to an abortion. This case created an "undue burden" framework, under which laws restricting access to abortion could be judged, leading to state politicians passing numerous medically unnecessary abortion restrictions across the country which courts have found do not impose an undue burden. 
