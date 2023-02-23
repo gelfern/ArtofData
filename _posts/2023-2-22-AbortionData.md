@@ -75,8 +75,12 @@ The code I wrote to generate the stacked bar chart:
 
 ![Satisfied](../assets/img/Satisfied.jpg)
 
-ANALYSIS
+What stands out to me most from this graph is the fact that the amount of Americans who were very satisfied with the nation's abortion policies visibly declined, while the section of the bar chart corresponding to "very dissatisfied" visibly grew. Keeping in mind that the datasets I am using can only provide generalizations of American perspectives on abortion, I still feel confident to conclude that Americans are growing less and less satisfied with how our nation treats abortion rights. 
+Moreover, between 2007 (when the Supreme Court upheld the first federal legislation to criminalize abortion) and 2022 (right before _Roe v. Wade_ was overturned, but after the case was leaked to the American public), the bright pink box corresponding to "very satisfied" continuously shrunk, to over less than half its original size. I find that using seaborn to generate this bar chart was extremely useful to visualize a correlation between the U.S. government increasingly intervening in a woman's right to choose and the nation's approval of our legislative bodies doing so declining. 
+Specifically, while I, in doing this project, cannot prove a causal relationship between these two factors (abortion legislation and a citizen's approval/satisfaction), I am extremely interested in further exploring this correlational relationship and diving deeper into the nuances of state-by-state abortion legislation, and the sentiments of the American public during the 20th century. 
 
+
+Next (political) 
 ![adultscode](../assets/img/nationaladults.jpg)
 
 ![Adultsgraph](../assets/img/nationaladultsgraph.jpg)
@@ -85,13 +89,13 @@ ANALYSIS
 
 ![Voters](../assets/img/Voters.jpg)
 
-
+Analysis. 
 
 (limitations) 
-
+(not all people, don't have much information on how the data was collcted)
 
 (conslusion)
-
+- correlation/people at least have some opnions (very little NO opinion)
 
 
 
