@@ -22,10 +22,25 @@ As explained by [Justin Oh](https://www.kaggle.com/justin2028), who put together
 ![FURY](../assets/img/fury.jpg)
 
 
+To begin my exploration of America's shifting views on abortion, I analyzed the dataset corresponding to Question 1: **Should Abortions Be Legal?** 
+This data contains responses to the poll from dates ranging from April 1975 to May 2022. 
+
+I was especially interested in this dataset because it contained 64 entries (responses to the poll) between the years of 1975 (2 years after _Roe v. Wade_ was ruled) and May 2022 (the month before _Roe v. Wade_ was effectively overturned). 
+
+Ultimately, my analysis of this dataset serves as a "birds-eye view" of the vast range of views on abortion before I dived deeper into the other datasets I used. 
+
+
 ![FURY](../assets/img/CodeDescribe.jpg)
+
+This program utilizes the pandas .describe() function to calculate the mean, minimum value, and maximum value of the percentages of people affiliated with each category of the poll. 
+ANALYSIS OF MEAN MIN MAX
 
 ![FURY](../assets/img/describe.jpg)
 
+Next, I created a copy of the dataset containing the responses to **Question 1** to only include data on the years included on the x-axis of the layered bar chart below. 
+
+**Why the dates?**
+* 1975: Two years after 
 ![legalcode](../assets/img/CodeLegal.jpg)
 
 ![legal](../assets/img/legalfinal.jpg)
