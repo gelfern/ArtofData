@@ -28,7 +28,7 @@ As explained by [Justin Oh](https://www.kaggle.com/justin2028), who put together
 
 ![legalcode](../assets/img/CodeLegal.jpg)
 
-![legal?](../assets/img/legalfinal?.jpg)
+![legal](../assets/img/legalfinal.jpg)
 
 
 ![satisfied](../assets/img/CodeSatisfied.jpg)
