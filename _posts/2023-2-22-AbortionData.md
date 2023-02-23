@@ -23,19 +23,23 @@ As explained by [Justin Oh](https://www.kaggle.com/justin2028), who put together
 
 
 To begin my exploration of America's shifting views on abortion, I analyzed the dataset corresponding to Question 1: **Should Abortions Be Legal?** 
-This data contains responses to the poll from dates ranging from April 1975 to May 2022. 
+This data contains responses to the poll from dates ranging from April 1975 (2 years after _Roe v. Wade_ was ruled) to May 2022 (the month before _Roe v. Wade_ was effectively overturned. 
 
-I was especially interested in this dataset because it contained 64 entries (responses to the poll) between the years of 1975 (2 years after _Roe v. Wade_ was ruled) and May 2022 (the month before _Roe v. Wade_ was effectively overturned). 
+Effectively, I begin this project with a "birds-eye view" of the general American sentiment regarding the legality of abortion during the period of time where _Roe v. Wade_ was in-effect. It is critical to note that the dataset corresponding to question 1 is based on the responses of registered votes. To me, this most obviously implicates two things: 
 
-Ultimately, my analysis of this dataset serves as a "birds-eye view" of the vast range of views on abortion before I dived deeper into the other datasets I used. 
+First of all, in 2020, about [62.8%](https://www.pewresearch.org/fact-tank/2022/11/01/turnout-in-u-s-has-soared-in-recent-elections-but-by-some-measures-still-trails-that-of-many-other-countries/) of Americans of voting age voted in the _presidential_ election, showing that 40 percent of Americans either are not registered to vote, or do not regularly civicaly engage. For this reason, I am conducting my analysis on the responses to the poll in question one by keeping in mind the fact that the poll responses cannot verifiably describe the true opinions of the American public, but still provide a valuable generalization. 
 
+Second, as both biological men and women can vote, the opinions of both biological men and women are included in the poll I am analyzing. However, as I am a firm believer in the fact that the choice to have an abortion must only involve the desires of the woman who is considering having one, and, moreover, that abortion is not at all a political issue, but one of basic women's health, I acknowledge that the question posed by this poll is one I inherently have problems with because it automatically frames abortion as a legal issue to be decided by the men (and women) in government. Still, I am very interested in extrapolating from this data to provide myself with a more objective understanding of America's views on abortion, in place of the heavily biased information I consume through the media. 
 
+The program below utilizes the pandas .describe() function to calculate the mean, minimum value, and maximum value of the percentages of people affiliated with each category of the poll. 
 ![FURY](../assets/img/CodeDescribe.jpg)
 
-This program utilizes the pandas .describe() function to calculate the mean, minimum value, and maximum value of the percentages of people affiliated with each category of the poll. 
-ANALYSIS OF MEAN MIN MAX
-
 ![FURY](../assets/img/describe.jpg)
+Interestingly about 27% (legal under any), legal only under certain (53%), illegal (18)
+min legal under any (23%), min legal only under certain(48), min illegal(12)
+max legal under any (35), max legal only under certain (61), max illegal (23)
+
+
 
 Next, I created a copy of the dataset containing the responses to **Question 1** to only include data on the years included on the x-axis of the layered bar chart below. 
 
