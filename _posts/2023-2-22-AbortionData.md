@@ -58,9 +58,24 @@ Below is the code I wrote to generate the stacked bar chart as well as the graph
 ![legal](../assets/img/legalfinal.jpg)
 
 
+Next, I decided to assess Americans' views on if abortion was morally wrong, and to visualize how this number has changed, specifically between 2007 (_Gonzales v. Carhart and Gonzales v. Planned Parenthood Federation of America_), 2016 (_Whole Woman's Health v. Hellerstedt_), and 2022 (the month before _Dobbs v. Jackson Women's Health Organization_). 
+![FURY](../assets/img/CodeMorals.jpg)
+
+![Morals](../assets/img/MorallyAcceptable.jpg)
+
+ANALYSIS
+
+
+At this point, I became interested in not only the American sentiment on the deserved legality and morality of abortion, but also how we (as citizens entitled and encouraged to engage civically) express our satisfaction with and opinions on abortion laws in our country. 
+
+Therefore, I first visualized the responses to the question **Are you Satisfied or Dissatisfied with American Abortion Policies**, during 5 critical years to the reproductive rights movement. Importantly, included 2001 because it was the earliest year for which my dataset contained poll responses. For the other 4 years that I displayed the distribution of poll responses for, I specifically chose them for the same reasons as I explained for the graph, "Should Abortions be Legal?". 
+
+The code I wrote to generate the stacked bar chart:
 ![satisfied](../assets/img/CodeSatisfied.jpg)
 
 ![Satisfied](../assets/img/Satisfied.jpg)
+
+ANALYSIS
 
 ![adultscode](../assets/img/nationaladults.jpg)
 
@@ -70,10 +85,6 @@ Below is the code I wrote to generate the stacked bar chart as well as the graph
 
 ![Voters](../assets/img/Voters.jpg)
 
-![FURY](../assets/img/CodeMorals.jpg)
-
-![Morals](../assets/img/MorallyAcceptable.jpg)
-(data analyssi)
 
 
 (limitations) 
