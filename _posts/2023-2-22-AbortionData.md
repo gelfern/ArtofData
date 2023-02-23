@@ -59,6 +59,7 @@ Below is the code I wrote to generate the stacked bar chart as well as the graph
 
 
 Next, I decided to assess Americans' views on if abortion was morally wrong, and to visualize how this number has changed, specifically between 2007 (_Gonzales v. Carhart and Gonzales v. Planned Parenthood Federation of America_), 2016 (_Whole Woman's Health v. Hellerstedt_), and 2022 (the month before _Dobbs v. Jackson Women's Health Organization_). 
+
 ![FURY](../assets/img/CodeMorals.jpg)
 
 ![Morals](../assets/img/MorallyAcceptable.jpg)
