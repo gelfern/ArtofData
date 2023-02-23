@@ -22,13 +22,28 @@ As explained by [Justin Oh](https://www.kaggle.com/justin2028), who put together
 ![FURY](../assets/img/fury.jpg)
 
 
+![FURY](../assets/img/CodeDescribe.jpg)
+
+![FURY](../assets/img/describe.jpg)
+
+![FURY](../assets/img/CodeLegal.jpg)
+
 ![Legal?](../assets/img/Legal?.jpg)
+
+
+![FURY](../assets/img/CodeSatisfied.jpg)
 
 ![Satisfied](../assets/img/Satisfied.jpg)
 
+![FURY](../assets/img/CodeAdults.jpg)
+
 ![Adults](../assets/img/Adults.jpg)
 
+![FURY](../assets/img/CodeRegistered.jpg)
+
 ![Voters](../assets/img/Voters.jpg)
+
+![FURY](../assets/img/CodeMorals.jpg)
 
 ![Morals](../assets/img/MorallyAcceptable.jpg)
 (data analyssi)
