@@ -3,7 +3,7 @@ layout: post
 title: Process This! Ant Man and Quantum Foundations
 subtitle: My Attempt to Resolve (some aspect of) the Incomprehensibility of Quantum Computing 
 thumbnail-img: /assets/img/thumbnail.jpg
-cover-img: /assets/img/AnimalCrossing.jpg
+cover-img: /assets/img/quantum.jpg
 tags: [Lab]
 comments: true
 ---
