@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A Paradise for Socks Enthusiasts 
-subtitle: Using Python for Data Analysis 
+title: Process This! Ant Man and Quantum Foundations
+subtitle: My Attempt to Resolve (some aspect of) the Incomprehensibility of Quantum Computing 
 thumbnail-img: /assets/img/socks.jpg
 cover-img: /assets/img/AnimalCrossing.jpg
 tags: [Lab]
