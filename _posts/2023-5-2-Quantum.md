@@ -11,6 +11,26 @@ comments: true
 # What if Ant Man tried to enter the "Quantum Realm" by means of a quantum computer? Could we predict how long it would take him to go quantum?
 ## *- Naomi Gelfer, 1 week younger than present day*
 
-This is a fascinating question, Naomi! Thanks for asking! I can already feel myself getting carried away...
-Let's begin with a few key clarifications: I'm assuming you're asking, "what if Ant Man was processed by a quantum computer in order to enter the quantum realm?" -- I'm taking a lot of creative liberties here considering Ant Man entering the quantum realm is a fantasy in itself, so in the MCU, why wouldn't he be able to enter the Quantum Realm by means of being processed by a quantum computer??? Stay with me here, this assumption is the least wild were going to get together :)
-Onto my next point of clarification, 
+Naomi Gelfer, 1 week younger than present day, was very ambitious, but, I have done my best to seek out ways to answer her mind-boggling question. Upon my quest for meaning in the quantum realm, my curious self could not stop herself from jumping directly into shining rabbit-holes filled with vast treasures of information regarding quantum computing, genome sequencing, D-Wave Systems quantum computers, clock speed, and programming regression lines in Altair. Even when one takes into account the fact that I am one week older than the Naomi Gelfer who posed me the original question (above), I am still not at the mental level that will allow me to fully comprehend quantum computing (and especially its applications in genome sequencing) -- BOOHOO :( (truly a shame -- I was most excited to become a professional in the field with a week's worth of research) 
+
+However, fear not! The following is a valiant attempt at tackling an originally short question, which opened the door for a plethora of corollaries and (most welcome) frustrations...
+
+Hold onto your hats! The following points of clarification are only the beginning of our roller-coaster ride: 
+We will attack the question at an angle considering "what if Ant Man was processed by a quantum computer in order to enter the quantum realm?" Meaning: considering Ant Man entering the quantum realm is a fantasy in itself, what if we layered that with the possibility of him entering the quantum realm *by being processed by a quantum computer*.
+
+Some background if you're lost: Ant Man (aka Scott Lang), by use of "Pym Particles" can access the Quantum Realm. Pym particles are capable or altering the size of objects or beings and are extra-dimensional in nature. The Quantum Realm, itself, is a universe outside of time and space, which Ant Man accesses by shrinking to beyond a sub-atomic size. I possess a scientific mind, and these Pym particles are synonymous to magic for me, so I am proposing another way for Ant Man to go quantum (very *simple* and very *clear*): being processed by a quantum computer. 
+
+![INSERT PIC OF ANT MAN](../assets/img/CodeDescribe.jpg)
+
+
+**A simple (?) solution...**
+Ask me if I can describe myself in one word (go on...) well, hopefully you asked me. And, I can easily describe myself in one word -- albeit, a word that is between 3-3.5 billion letters long! (My genome!!!)
+So, my next move: for Ant Man to be processed by a quantum computer, we have to ask who is Ant Man? What is Ant Man? Ant Man is just a man, and his name is Scott Lang. Scott Lang, in a more cold/harsh/scientific way, *is* his genome (for the purposes of this hypothetical). So, his unique self can be equated to somewhere around a 3.5 billion base-pair-long genome. Now, process this: as bits (the fundamental units of information used by classical computers) are stored as 0s or 1s, one bit can have two possible values, and two bits can have four possible values (yay combinatorics). In parallel, there are four DNA bases (ATGC) and four possible DNA base pairings, so each one in a sequence can be recorded as two bits of data. So one base pair = 2 bits. Scaling up, 4 million base pairs = 8 million bits = 1 million bytes (because 8 bits = 1 byte). I am sampling the math done by [this](https://www.thetech.org/ask-a-geneticist/articles/2019/does-our-dna-really-have-as-much-information-as-an-encyclopedia-set/#:~:text=Since%20there%20are%20four%20possible,8%20million%20bits%20of%20information) source, which explains that since humans have about 3.5 billion base pairs, this translates to 875 megabytes of data. One megabyte = 8 x 10^6 bits, so 875 megabytes = 7.3 x 10^9 bits.
+Lots of unit conversions, I know, but lets take a pit stop before we continue: just to clarify, the amount of information stored within the human genome can be equated to about 7.3 x 10^9 bits of information (on a classical computer). 
+Take a breath (if you need it).
+Lets continue (!!!)
+To understand our next unit conversion (as we, too, take a leap into the quantum realm with Ant Man), one key property of quantum computers must be addressed. **Quantum Entanglement**
+
+
+
+
