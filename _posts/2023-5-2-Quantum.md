@@ -31,6 +31,13 @@ Take a breath (if you need it).
 Lets continue (!!!)
 To understand our next unit conversion (as we, too, take a leap into the quantum realm with Ant Man), two key properties of quantum computers must be addressed. **Superposition and Quantum Entanglement**. In our classical computers, bits are either 0 **or** 1. But, Quantum computers use **qubits** which can be thought of as 0 **or** 1 **or** *both at the same time* (a state of superposition). In superposition (between measurements -- the second a qubit is measured, its state of superposition collapses), a qubit has some probability of being 0 and some probability of being 1, meaning it contains more information per processing unit than a classical bit. Then, regarding Entanglement, qubits can be "connected" even if they are separated. In other words, qubits can be made of electrons, whose spin goes in one of two directions (up or down), and when they are entangled, their spin becomes directly correlated. Essentially, as more and more qubits are entangled together, the computer's ability to make more calculations grows exponentially. On the other hand, a classical computer's ability to make calculations grows linearly with bits. Therefore, the following (especially for the purposes of our conversation at the moment) is true: **n qubits = 2^n bits**. [This](https://quantumtech.blog/2022/01/17/ten-fundamental-facts-about-quantum-computing/) source has helped me a great deal with sorting out the facts I just explained. 
 
+Now that we all completely understand superposition and entanglement (obviously), we can use the equation above to find that log(base 2) (7.3 x 10^9) bits = (about) 32.77 qubits. 
+In other words, Ant Man’s genome contains 32.77 qubits of information. 
 
+If we just want to know how long it would take for a quantum computer to process (aka sequence) his genome, lets just first find out how long it would take a classical computer to process his genome, find out how much faster a quantum computer processes that amount of information, and BOOM done…
+
+We can consult [this](https://quantumtech.blog/2022/01/17/ten-fundamental-facts-about-quantum-computing/) source for the following information: 
+
+![quantum chart](../assets/img/chart.jpg)
 
 
