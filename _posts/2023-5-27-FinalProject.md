@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Digimonsterz and Naomi - an Unexpected Friendship
-subtitle: Solutions to Lab 1
+title: final project
+subtitle: final project
 thumbnail-img: /assets/img/oldDIG.jpg
 cover-img: /assets/img/naomidigi.jpg
 tags: [Lab]
 comments: true
 ---
 
-# Into the Digi-Verse
+# Final project
