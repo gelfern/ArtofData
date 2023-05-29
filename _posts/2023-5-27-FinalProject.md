@@ -111,7 +111,7 @@ Look to the map below for reference on how different states have imposed laws on
 
 ![americaabortions](../assets/img/frAmericamap.jpg)
 
-The majority of Western states (MT, NV, CA, WA, OR, etc.), have left abortions legal with new protections -- with the exceptions of Idaho, Utah, and Wyoming, where either abortions have been banned/partially banned, or proposed bans were blocked. In these states, we’ve established F/F teams see the lowest level of attrition in terms of how much less likely they are to win a given round *and* that their state legislatures have *relatively* smaller minority of women when compared to other regions. In the Northeast, where women hold the largest relative proportion of seats in their state legislature, those states have left abortions as legal/legal with new protections
+The majority of Western states (MT, NV, CA, WA, OR, etc.), have left abortions legal with new protections -- with the exceptions of Idaho, Utah, and Wyoming, where either abortions have been banned/partially banned, or proposed bans were blocked. In these states, we’ve established F/F teams see the lowest level of attrition in terms of how much less likely they are to win a given round *and* that their state legislatures have *relatively* smaller minorities of women when compared to other regions. In the Northeast, where women hold the largest relative proportion of seats in their state legislature, those states have left abortions as legal/legal with new protections
 
 Conversely, in the Southwest (TX, OK, AZ), where female attrition rates are at their highest and women hold the a minority of seats in their state legislatures (less than half of the number held by male members), either total bans have been imposed on abortion, or bans have been blocked. New Mexico exists as exception, where abortions are generally legal.
 
@@ -126,6 +126,29 @@ Looking through the lens of abortion legislation as the impact of the correlatio
 
 # Section 4: Input from our Future!
 
+Inspired by some of the questions my graphs and data analysis raised, I sent out an anonymous poll to the amazing members of the Middle Division Girls in Debate program that I run. I founded MD Girls in Debate specifically because of my passion for the empowerment of all female public speakers, and to provide aspiring female middle school public speakers with a environment lacking all of the biases I’ve been analyzing throughout this post. Here are some of the most notable results: 
+
+![hopetolegislate](../assets/img/frHopelegislate.jpg)
+
+The chart above shows us that having negative public speaking experiences (including a disproportionate amount of losses or experiencing microaggression) would have the potential to drive over half of the girls away from pursuing a career in legislation and public speaking. Essentially, if the rate of bias in competitive debate remains unchanged (or even worse, is left to increase), our once-promising pool of future female legislators and orators will be significantly damaged, and the inequities within the American system of government will have a higher probability of continuing to oppress marginalized populations. 
+
+![quit](../assets/img/LiklihoodtoQuit.jpg)
+
+More specifically, we would lose 50% of the respondents to my poll were they to experience consistent losses (including those due to the biases discussed in this post). Just as Nie and Yi pointed out that females make up the majority of underclassmen debaters, as bias materializes with experience in the varsity level, girls are more likely to quit, leaving male debaters to dominate varsity tournaments (and, ultimately, the debate sphere). Our future cannot afford to lose that 50% of female debaters due to bias and inequity, for reasons that include how legislation infringing on women’s rights has been passed at greater proportions in states where legislatures are majority male and female attrition in competitive debate is at its highest. 
 
 
+### Final Note: Hope for Change
+
+In addition to my earlier call for more NSDA judge training measures, having female role models is absolutely critical to paving the way for change: 
+
+![rolemodels](../assets/img/NecessityRoleModel.jpg)
+
+To reverse the cycle of marginalization based on gender and race in debate and the US legislative system, we must open doors for more female role models who will continuously inspire future waves of female electoral candidates, legislators, and orators. 
+
+Finally, a closing lesson from one of our very own wise middle school debaters:
+### “I don't really care about gender in public speaking. If anyone mentions it in attempts to hinder my progress in a MUN (Model UN) conference (it happened before, once), it would probably make me strive harder to beat them."
+
+
+I truly could not have said it more gracefully.
+Thank you for reading.
 
