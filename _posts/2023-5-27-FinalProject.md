@@ -21,6 +21,7 @@ As you read this post, please keep in mind that feminism and every invidual's in
 My ultimate decision to compile this project was fueled by my passions to never stop defending what I believe in. Every single member of this generation, including the thousands of competitive debaters, represents all of our futures.
 
 
+
 # Section 1: Welcome to High School Debate
 ![nsdalogo](../assets/img/NSDA.jpg)
 
