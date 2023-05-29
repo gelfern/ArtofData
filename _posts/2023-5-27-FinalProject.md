@@ -54,6 +54,23 @@ Fascinatingly, female debaters would be 92.51% less likely to quit if their win 
 
 ### Part 3: Breakdown by Region
 
+As we prepare to move away from high school debate and to US legislative bodies, keep what you take away from the graph below in mind.
+
 ![PFbyRegion](../assets/img/PFregion.jpg)
 
+For most teams, the region they debate in is their home region, meaning it is quite difficult, inconvenient, and financially straining to “simply” start debating in a region where gender biases are less prevalent. Therefore, F/F teams in the American southwest (in states such as Texas and Arizona) find themselves at 28.0% less likely to win a round the second they walk into a room containing at least one male debater. While this unfair skew decreases the most in the West (11.9%), there is no American region where F/F teams do not face bias before they even read their speech. 
 
+Finally, before we move on, to those of you considering “maybe F/F teams lose more because they’re worse”: stop. I’m extremely confident in asserting that gender has absolutely nothing to do with one’s ability to present and argument and defend it. We say that at the novice level, where female debaters actually make up the gender majority, F/F and F/M teams experience the lowest attrition rates in terms of how much less likely they are to win a round than a M/M team. Once the exhausting microaggressions and seemingly continuous losses start rolling in with experience, female debaters are compelled to quit the activity, only exacerbating the cycle of marginalization and loss for female debaters. 
+
+
+# Section 2: Visualization of US Legislative Bodies by Gender and Race
+
+![primaries](../assets/img/primaries.jpg)
+
+![stackedArea](../assets/img/stackedArea.jpg)
+
+
+# Section 3: title
+![forregions](../assets/img/electedPerRegion.jpg)
+
+![statelegsize](../assets/img/stateLegSizes.jpg)
