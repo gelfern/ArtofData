@@ -66,6 +66,7 @@ Finally, before we move on, to those of you considering “maybe F/F teams lose 
 
 # Section 2: Visualization of US Legislative Bodies by Gender and Race
 
+### Part 1: The 2020 Primary Elections
 Using data from the [Reflective Democracy Campaign](https://wholeads.us/datasets/) Reflective Democracy Campaign, the graph below separates all of the congressional, statewide office, and state legislature primary election candidates in 2020 down party lines and by registered gender. 
 
 ![primaries](../assets/img/primaries.jpg)
@@ -75,7 +76,15 @@ Looking at the “total” bar group, the 2020 primary male candidates visually 
 The dataset used for this graph also contains information on the winners of the 2020 primaries: men made up 66.8% (≈ ⅔) of the electeds, while women made up the remaining 33.2% (≈ ⅓) of the winners. Recall the gender breakdown of the TOC rounds we looked at in **section 1**, **part 2**, where Male/Male teams made up about 50% of all rounds and M/F teams made up an additional 25%. Where completely male teams dominated 50% of the debate scene (and teams with at least one male left only a quarter of debate teams to be F/F), this proportion gets blown up across the US’s state governments. While these comparisons are correlational, teens in debate often aspire to become active members of the government, so the relationship between the marginalization of women in both competitive debate and the state of the government is somewhat unsurprising to me :(
 
 
+### Part 2: Trends in Female Candidacy 2012-2018
+
+Now, lets take a more dynamic look at the changing demographics of the congressional, state legislative, and gubernatorial candidate pools between 2012-2018. The dataset from the Reflective Democracy Campaign used to create this graph took into account candidates not registered as part of the male/female binary. 
+
 ![stackedArea](../assets/img/stackedArea.jpg)
+
+While male candidates still maintained their overwhelming majority by 2018, the graph above shows a promising trend: the proportion of female candidates running for both congress and their state legislatures is going up. It is also important to note that the number of candidates of unspecified gender seemed to decrease, but more research needs to be done on this front in terms of what is contributing to this change. 
+
+After analyzing the graph above, my hope is that with more female role models engaging in US legislative bodies, more young female debaters will find newfound inspiration to join their school’s debate teams and encourage each other not to quit the activity. At the same time, the NSDA (National Speech and Debate Association) must be pressured to ameliorate their evidently weak measures to [train judges](https://www.speechanddebate.org/judge-training/) in advance of tournaments, because one judge’s subconscious bias can negatively alter the trajectory of a female debater’s life in as part of the activity.
 
 
 # Section 3: title
