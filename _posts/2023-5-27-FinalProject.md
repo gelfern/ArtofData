@@ -25,7 +25,7 @@ My ultimate decision to compile this project was fueled by my passions to never 
 In 2020, Alyssa Nie and AJ Yi, after constructing and analyzing a dataset with 44 variables and 125,087 unique debate rounds during the 2014-2015 to 2019-2020 school years, published _"An Empirical Study of Gender Differences in Competitive High School Debate"_ to the Social Science Research Network Database. Specifically, Nie and Yi examined 344 of the 388 total TOC (Tournament of Champions) Qualifying Tournaments by building a webscraper to obtain data from variation tabulation platforms that published the results of those tournaments. All of the following visualizations are based on data collected by Nie and Yi.
 
 ### Part 1: The Biases Before a Round Even Begins
-![lessLiklihood](../assets/img/PF1Graph.jpg)
+![lessLiklihood](../assets/img/FIRSTpfGraph.jpg)
 The graph above allows us to visualize the bias that parasitically invades every single tournament room before the debaters even walk in. The first group of bars (under the category, "normalized") take into account controls for the grade level of debate teams and various team level controls to provide a general conclusion about how much less likely Female/Female (F/F) and Female/Male (F/M) teams are to win a round than a Male/Male (M/M) team across the board. The immediate conclusions this part of the graph points to are jarring: F/M teams are about 10% less likely to win around compared to their M/M counterparts. But, at over 150% of that disadvantage, F/F teams are nearly 17.5% less likely to win **any given round** than a M/M team. These devastatingly discouraging biases are present at every single round.
 
 Then, the "Novice" and "Varsity" bar groups add critical context to our story: at the novice level, F/M teams are at no disadvantage compared to their M/M counterparts when they walk into a tournament room. For a F/F team, this disadvantage is relatively small when compared to the heights of all of the other bars on the graph. But, once debaters join the acclaimed ranks of the "varsity debate level," everything changes. Varsity F/F teams likely find themselves at the largest disadvantage compared to both their F/M and M/M team counterparts that they have ever experienced. From having an unbiased, equal shot at winning a round against a M/M team solely based on the gender composition of their team, F/M varsity teams are all of a sudden about 11% less likely to win a round than M/M teams. One crucial takeaway from my analysis of this graph is that rates of female attrition compound with experience, which only push once inspired and driven female debaters further away from their dreams of public-speaking success. A consistent aspect of this graph is the fact that being a member of F/F team would put you at the greatest disadvantage.
@@ -35,7 +35,9 @@ For reference, the grouped bars labeled as "overall" refer to how much less like
 Now, with the above overview of the biases that materialize solely due to a team's gender composition, *before a round even begins* in mind, let's look at some informative statistics on what's actually going on during and after debate tournaments. 
 
 ### Part 2: Correlating Win Rates, Quit Rates, and the Debate Sphere's Gender Composition through a Synergetic Relationship
+![gendercomp](../assets/img/composition.jpg)
+![FFwinrate](../assets/img/FFwinrate.jpg)
 
-
+add that higher prop of freshie girls vs lower when upper classmen (pg 15) and then from pg 18 that girls are more likely to quit --> and then from page 19 that if u increase win ratio make girls more likely to stay (still less than boys) use this to explain the critical subltey of even the smallest diff in the win rates graph
 
 
