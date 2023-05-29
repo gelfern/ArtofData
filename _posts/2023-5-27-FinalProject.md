@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How America Argues
-subtitle: Correlating the Impacts of Female Attrition in High School Debate on the United States Government
+subtitle: Correlating the Impacts of Female Attrition in High School Debate with the Demographics and Legislation of United States Government
 thumbnail-img: /assets/img/women.jpg
 cover-img: /assets/img/fistsCover.jpg
 tags: [Lab]
@@ -9,7 +9,7 @@ comments: true
 ---
 
 # An Argument on the Demographics of the Arguing
-Picture this: you're eleven and one of the only two girls in your first middle school debate team meeting -- fighting to float  within a turbulent sea of boys (only recently having blossomed from prepubescence). That was me about 5 years ago. So, my best friend and debate partner and I did the only thing that could be done: build a fort of desks in the center of the room, while the rest of the boys took their seats behind desks against the walls of the room, encircling and encroaching upon our makeshift citadel. I've been fighting from within that fort to this day. 
+Picture this: you're eleven and one of the only two girls in your first middle school debate team meeting -- fighting to float  within a turbulent sea of boys (only recently having blossomed from prepubescence). That was me about 5 years ago. So, my best friend/debate partner and I did the only thing that could be done: build a fort of desks in the center of the room, while the rest of the boys took their seats behind desks against the walls of the room, encircling and encroaching upon our makeshift citadel. I've been fighting from within that fort to this day. 
 
 As I make the ironic choice to open a data analysis project with purely anecdotal comments, I standby my following assertions. The high school competetive debate sphere in the United States (or, from my personal experience, in the Northeast) is riddled with **misogyny**, **bias**, and **inequity**. And, while I've had the privelage of emerging from the gates of Harvard campus, sleep-deprived but fueled by vendettas against all of the judges that "voted wrong," like I had just escaped a fever dream, the niche little bubble that I used to believe contained the debate sphere has popped a long time ago.  
 
