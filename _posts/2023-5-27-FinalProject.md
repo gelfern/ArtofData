@@ -87,7 +87,45 @@ While male candidates still maintained their overwhelming majority by 2018, the 
 After analyzing the graph above, my hope is that with more female role models engaging in US legislative bodies, more young female debaters will find newfound inspiration to join their school’s debate teams and encourage each other not to quit the activity. At the same time, the NSDA (National Speech and Debate Association) must be pressured to ameliorate their evidently weak measures to [train judges](https://www.speechanddebate.org/judge-training/) in advance of tournaments, because one judge’s subconscious bias can negatively alter the trajectory of a female debater’s entire life as a debater.
 
 
-# Section 3: title
-![forregions](../assets/img/electedPerRegion.jpg)
+# Section 3: Impacts -- Abortion Legislation
+
+Consider **sections 1 and 2** my warranting, and now **section 3** contains my impacts (some fun debate jargon). In other words **section 3** is one way to understand why everything I explained in this post *matters*. 
+
+The graph below allows us to visualize the average number of electeds to state legislatures separated by race and gender for the exact same five US regions that the graph in **section 1, part 3** separates into. For context about the various average sizes of each region’s state legislatures, please see the graph at the bottom of this section.
+
+![forregions](../assets/img/perRegion.jpg)
+ 
+Each group of bars follows a similar pattern, the average number of white men elected to state legislatures is substantially greater than every other category for every region. Then, white women hold the second largest majority in state legislatures. Generally, women of color make up the minority of all state legislatures in every region, except for in the West, where there is a slightly greater average of women of color than men of color. I created this graph to emphasize the fact I introduced at the start of the post -- feminism is not feminism if it is not intersectional. While women, as a whole, are marginalized and at a disadvantage due to the patriarchy, aspects of one’s identity, such as their race, also play a major role in their opportunities and the level oppression they experience due to their identity. 
+
+Now, let’s consider the graph above and the two graphs below (the first displays the same data as the graph above, but only separates electeds by region and gender; the second graph is the same as the one in **section 1, part 3**) 
+
+![regionsGender](../assets/img/perregJUSTGENDER.jpg)
+![PFbyRegion](../assets/img/PFregion.jpg)
+
+In the West, where F/F debate teams experience the least attrition in terms of how much less likely that are to win a given debate round, about half (from a visual estimation) of the average members of Western state legislatures are female. In the Southeast, where F/F teams are about 13% less likely to win a debate round, the proportion of female members of state legislations is well below ½ of the number of male members. Similarly, in the Midwest, where F/F teams experience the second highest level of attrition, males also dominate state legislatures. 
+Conversely, in the Northeast, the number of female members equals more than half of the number of male members. 
+
+One way to correlate these different gender distributions is to relate these graphs to regional legislation on abortion (read more on the drastic nature of this politicized invasion of women’s rights [here](https://gelfern.github.io/ArtofData/2023-02-22-AbortionData/). 
+
+Look to the map below for reference on how different states have imposed laws on abortion:
+
+![americaabortions](../assets/img/frAmericamap.jpg)
+
+The majority of Western states (MT, NV, CA, WA, OR, etc.), have left abortions legal with new protections -- with the exceptions of Idaho, Utah, and Wyoming, where either abortions have been banned/partially banned, or proposed bans were blocked. In these states, we’ve established F/F teams see the lowest level of attrition in terms of how much less likely they are to win a given round *and* that their state legislatures have *relatively* smaller minority of women when compared to other regions. In the Northeast, where women hold the largest relative proportion of seats in their state legislature, those states have left abortions as legal/legal with new protections
+
+Conversely, in the Southwest (TX, OK, AZ), where female attrition rates are at their highest and women hold the a minority of seats in their state legislatures (less than half of the number held by male members), either total bans have been imposed on abortion, or bans have been blocked. New Mexico exists as exception, where abortions are generally legal.
+
+Correlations between attrition rates against F/F debate teams + proportions of women in state legislature per region and recent abortion legislation, such as the ones I demonstrated above, can generally be drawn for all five US regions. 
+
 
 ![statelegsize](../assets/img/stateLegSizes.jpg)
+
+### Reflection on Section 3: 
+Looking through the lens of abortion legislation as the impact of the correlations I demonstrate between regional attrition rates against F/F teams and number of women elected to state legislatures is but one way to visualize the effects of unjust representation of the American population in governmental bodies. High school debate isn’t just some activity that teens do as an “extracurricular” on their college applications -- the way we allow biases to permeate competitive debate can continue to exacerbate the inequities and systems of oppression within the US. 
+
+
+# Section 4: Input from our Future!
+
+
+
+
