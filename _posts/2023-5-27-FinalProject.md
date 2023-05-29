@@ -24,7 +24,7 @@ My ultimate decision to compile this project was fueled by my passions to never 
 # Section 1: Welcome to High School Debate
 ![nsdalogo](../assets/img/NSDA.jpg)
 
-In 2020, Alyssa Nie and AJ Yi, after constructing and analyzing a dataset with 44 variables and 125,087 unique debate rounds during the 2014-2015 to 2019-2020 school years, published _"An Empirical Study of Gender Differences in Competitive High School Debate"_ to the Social Science Research Network Database. Specifically, Nie and Yi examined 344 of the 388 total TOC (Tournament of Champions) Qualifying Tournaments during those years by building a webscraper to obtain data from variation tabulation platforms that published tournament results. All of the following visualizations are based on data collected by Nie and Yi.
+In 2020, Alyssa Nie and AJ Yi, after constructing and analyzing a dataset with 44 variables and 125,087 unique debate rounds during the 2014-2015 to 2019-2020 school years, [published](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715996) _"An Empirical Study of Gender Differences in Competitive High School Debate"_ to the Social Science Research Network Database. Specifically, Nie and Yi examined 344 of the 388 total TOC (Tournament of Champions) Qualifying Tournaments during those years by building a webscraper to obtain data from variation tabulation platforms that published tournament results. All of the following visualizations are based on data collected by Nie and Yi.
 
 ### Part 1: The Biases Before a Round Even Begins
 ![lessLiklihood](../assets/img/FIRSTpfGraph.jpg)
@@ -65,7 +65,14 @@ Finally, before we move on, to those of you considering “maybe F/F teams lose 
 
 # Section 2: Visualization of US Legislative Bodies by Gender and Race
 
+Using data from the [Reflective Democracy Campaign]([https://www.kaggle.com/datasets/justin2028/perspectives-on-abortion-1975-2022](https://wholeads.us/datasets/) Reflective Democracy Campaign, the graph below separates all of the congressional, statewide office, and state legislature primary election candidates in 2020 down party lines and by registered gender. 
+
 ![primaries](../assets/img/primaries.jpg)
+
+Looking at the “total” bar group, the 2020 primary male candidates visually outnumber all of the female candidates by 150%. Then, while slightly more republican candidates ran (a difference of about 75 candidates), the republican party was represented a much more jarring proportion of men, while the proportion of male to female democratic candidates was relatively closer to half/half. Critically, the graph above shows that a lot more men are running for office than women across the entire country and all parties (*still*).   
+
+The dataset used for this graph also contains information on the winners of the 2020 primaries: men made up 66.8% (≈ ⅔) of the electeds, while women made up the remaining 33.2% (≈ ⅓) of the winners. Recall the gender breakdown of the TOC rounds we looked at in **section 1**, **part 2**, where Male/Male teams made up about 50% of all rounds and M/F teams made up an additional 25%. Where completely male teams dominated 50% of the debate scene (and teams with at least one male left only a quarter of debate teams to be F/F), this proportion gets blown up across the US’s state governments. While these comparisons are correlational, teens in debate often aspire to become active members of the government, so the relationship between the marginalization of women in both competitive debate and the state of the government is somewhat unsurprising to me :(
+
 
 ![stackedArea](../assets/img/stackedArea.jpg)
 
