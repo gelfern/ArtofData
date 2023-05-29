@@ -66,7 +66,7 @@ Finally, before we move on, to those of you considering “maybe F/F teams lose 
 
 # Section 2: Visualization of US Legislative Bodies by Gender and Race
 
-Using data from the [Reflective Democracy Campaign]([https://www.kaggle.com/datasets/justin2028/perspectives-on-abortion-1975-2022](https://wholeads.us/datasets/) Reflective Democracy Campaign, the graph below separates all of the congressional, statewide office, and state legislature primary election candidates in 2020 down party lines and by registered gender. 
+Using data from the [Reflective Democracy Campaign](https://wholeads.us/datasets/) Reflective Democracy Campaign, the graph below separates all of the congressional, statewide office, and state legislature primary election candidates in 2020 down party lines and by registered gender. 
 
 ![primaries](../assets/img/primaries.jpg)
 
