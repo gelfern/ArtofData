@@ -36,7 +36,7 @@ For reference, the grouped bars labeled as "overall" refer to how much less like
 
 Now, with the above overview of the biases that materialize solely due to a team's gender composition *before a round even begins* in mind, let's look at some informative statistics on what's actually going on during and after debate tournaments. 
 
-### Part 2: Correlating Win Rates, Quit Rates, and the Debate Sphere's Gender Composition through a Synergetic Relationship
+### Part 2: Correlating the Debate Sphere's Gender Composition with F/F Win Rates and Quit Rates through a Synergetic Relationship
 ![gendercomp](../assets/img/composition.jpg)
 
 For the over 225,000 rounds that in Nie and Yi’s dataset, I have visualized the proportion of gender composition for all round observed. Making up nearly 50% of almost all TOC Qualifier rounds, M/M teams dominate the debate niche. As for the remaining 50% of teams, F/M and F/M make up about half and half. 
