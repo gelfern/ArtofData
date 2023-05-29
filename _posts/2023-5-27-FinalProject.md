@@ -9,6 +9,7 @@ comments: true
 ---
 
 # An Argument Regarding the Demographics of Arguing
+
 Picture this: you're eleven and one of the only two girls in your first middle school debate team meeting -- fighting to float  within a turbulent sea of boys (only recently having blossomed from prepubescence). That was me about 5 years ago. So, my best friend/debate partner and I did the only thing that could be done: build a fort of desks in the center of the room, while the rest of the boys took their seats behind desks against the walls of the room, encircling and encroaching upon our makeshift citadel. I've been fighting from within that fort to this day. 
 
 As I make the ironic choice to open a data analysis project with purely anecdotal comments, I standby my following assertions. The high school competetive debate sphere in the United States (or, from my personal experience, in the Northeast) is riddled with **misogyny**, **bias**, and **inequity**. And, while I've had the privilege of emerging from the gates of Harvard campus, sleep-deprived but fueled by vendettas against all of the judges that "voted wrong," like I had just escaped a fever dream, the niche little bubble that I used to believe contained the debate sphere has popped a long time ago.  
@@ -37,8 +38,22 @@ Now, with the above overview of the biases that materialize solely due to a team
 
 ### Part 2: Correlating Win Rates, Quit Rates, and the Debate Sphere's Gender Composition through a Synergetic Relationship
 ![gendercomp](../assets/img/composition.jpg)
+
+For the over 225,000 rounds that in Nie and Yi’s dataset, I have visualized the proportion of gender composition for all round observed. Making up nearly 50% of almost all TOC Qualifier rounds, M/M teams dominate the debate niche. As for the remaining 50% of teams, F/M and F/M make up about half and half. 
+
+Understanding the more subtle but forceful impacts of debate *still* being male dominated is crucial before we correlate this graph with F/F team win and quit rates. In between rounds, high school cafeterias and college campuses are flooded with high school debaters -- in my experience, these areas are occupied by a majority of boys, where it’s difficult to find another group of girls in the room. Then, while public forum debate requires a lot of collaborative prep work, my identity as a girl has left me shut out from unofficial meetings and group Face-Times between boys on my team as they prepared for the coming tournament. Moreover, as different school teams at tournaments seek to collaborate with each other (to share notes against collective “enemies”), I have never been approached for help by another team, while the boys sitting next to me become easily surrounded by other teams begging for shared prep. As a middle schooler, I was self conscious of my especially high pitched voice, and shrunk before every adult (and inexperienced) male judge as he felt the need to lecture me about the topic I spent months preparing. During the pandemic, boys teams would visibly laugh at my partner and I, while they were on mute, as we’d give speeches during rounds. While the gender I present as certainly does not inform every single one of my experiences as a debater, microaggressions and clear gender biases have continuously threatened to push me out of the activity altogether. 
+
+On that note, take a look at the graph below:
+
 ![FFwinrate](../assets/img/FFwinrate.jpg)
 
-add that higher prop of freshie girls vs lower when upper classmen (pg 15) and then from pg 18 that girls are more likely to quit --> and then from page 19 that if u increase win ratio make girls more likely to stay (still less than boys) use this to explain the critical subltey of even the smallest diff in the win rates graph
+With F/F teams already making up the minority of teams you’ll see at a debate tournament, the greater the number of males they debate against, the lower their win rate is. F/F teams only win 45% of the rounds they debate against M/M teams, and while it may be easy graph above and mislabel the differences between each bar as insignificant, the biased and discouraging win rates for F/F teams exacerbate the common microaggressions and sense of marginalization that I just discussed.
+Let’s check this empirically: Nie and Yi calculated that (with specific normalizing controls), female debaters are 30.34% more likely to quit than male debaters. And, we can watch this alarming likelihood of girls to be driven out from debate through the numbers: Nie and Yi found a higher proportion of female than male underclassman debaters. But, once debaters enter the varsity level (generally, in junior and senior year), male debaters completely overtake females as the majority. Therefore, I argue that the biased win rates and likelihood to lose that plague female debate teams (*especially* once they enter the varsity level) contribute to them being driven out of the activity, which only decreases the proportion of female representation in debate, so this cycle continues. 
+
+Fascinatingly, female debaters would be 92.51% less likely to quit if their win ratio was raised one unit, Yi and Nie reported: the unfair win rates for F/F teams have a direct effect on their likelihood to quit altogether. 
+
+### Part 3: Breakdown by Region
+
+![PFbyRegion](../assets/img/PFregion.jpg)
 
 
