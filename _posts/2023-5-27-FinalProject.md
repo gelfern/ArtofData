@@ -11,7 +11,7 @@ comments: true
 # An Argument on the Demographics of the Arguing
 Picture this: you're eleven and one of the only two girls in your first middle school debate team meeting -- fighting to float  within a turbulent sea of boys (only recently having blossomed from prepubescence). That was me about 5 years ago. So, my best friend/debate partner and I did the only thing that could be done: build a fort of desks in the center of the room, while the rest of the boys took their seats behind desks against the walls of the room, encircling and encroaching upon our makeshift citadel. I've been fighting from within that fort to this day. 
 
-As I make the ironic choice to open a data analysis project with purely anecdotal comments, I standby my following assertions. The high school competetive debate sphere in the United States (or, from my personal experience, in the Northeast) is riddled with **misogyny**, **bias**, and **inequity**. And, while I've had the privelage of emerging from the gates of Harvard campus, sleep-deprived but fueled by vendettas against all of the judges that "voted wrong," like I had just escaped a fever dream, the niche little bubble that I used to believe contained the debate sphere has popped a long time ago.  
+As I make the ironic choice to open a data analysis project with purely anecdotal comments, I standby my following assertions. The high school competetive debate sphere in the United States (or, from my personal experience, in the Northeast) is riddled with **misogyny**, **bias**, and **inequity**. And, while I've had the privilege of emerging from the gates of Harvard campus, sleep-deprived but fueled by vendettas against all of the judges that "voted wrong," like I had just escaped a fever dream, the niche little bubble that I used to believe contained the debate sphere has popped a long time ago.  
 
 A quick off-time road-map (teehee -- hopefully at least one of my readers is a debater...): in **section 1**, this project dives into visualizing critical empirics describing gender differences in competive high school debate. Then, we're skipping college and marching straight to state legislatures, the US Sentate, and the House of Representatives in **section 2**; specifically, section 2 will consist of data visualizations of the gender demographics of various election years in the past decade. Finally, to connect the first 2/3s of this post, **section 3** seeks to correlate what conclusions can be extrapolated from section 1 with the *very real* effects that the unequal and male-dominated political spheres we discovered in **section 2** have on our world.  
 
@@ -21,5 +21,11 @@ My ultimate decision to compile this project was fueled by my passions to never 
 
 
 # Section 1: Welcome to High School Debate
+In 2020, Alyssa Nie and AJ Yi, after constructing and analyzing a dataset with 44 variables and 125,087 unique debate rounds during the 2014-2015 to 2019-2020 school years, published _"An Empirical Study of Gender Differences in Competitive High School Debate"_ to the Social Science Research Network Database. Specifically, Nie and Yi examined 344 of the 388 total TOC (Tournament of Champions) Qualifying Tournaments by building a webscraper to obtain data from variation tabulation platforms that published the results of those tournaments. All of the following visualizations are based on data collected by Nie and Yi. 
 ![nsdalogo](../assets/img/NSDA.jpg)
+
+
+
+
+
 
