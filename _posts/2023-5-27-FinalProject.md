@@ -84,7 +84,7 @@ Now, lets take a more dynamic look at the changing demographics of the congressi
 
 While male candidates still maintained their overwhelming majority by 2018, the graph above shows a promising trend: the proportion of female candidates running for both congress and their state legislatures is going up. It is also important to note that the number of candidates of unspecified gender seemed to decrease, but more research needs to be done on this front in terms of what is contributing to this change. 
 
-After analyzing the graph above, my hope is that with more female role models engaging in US legislative bodies, more young female debaters will find newfound inspiration to join their school’s debate teams and encourage each other not to quit the activity. At the same time, the NSDA (National Speech and Debate Association) must be pressured to ameliorate their evidently weak measures to [train judges](https://www.speechanddebate.org/judge-training/) in advance of tournaments, because one judge’s subconscious bias can negatively alter the trajectory of a female debater’s life in as part of the activity.
+After analyzing the graph above, my hope is that with more female role models engaging in US legislative bodies, more young female debaters will find newfound inspiration to join their school’s debate teams and encourage each other not to quit the activity. At the same time, the NSDA (National Speech and Debate Association) must be pressured to ameliorate their evidently weak measures to [train judges](https://www.speechanddebate.org/judge-training/) in advance of tournaments, because one judge’s subconscious bias can negatively alter the trajectory of a female debater’s entire life as a debater.
 
 
 # Section 3: title
