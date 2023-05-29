@@ -80,7 +80,7 @@ The dataset used for this graph also contains information on the winners of the 
 
 Now, lets take a more dynamic look at the changing demographics of the congressional, state legislative, and gubernatorial candidate pools between 2012-2018. The dataset from the Reflective Democracy Campaign used to create this graph took into account candidates not registered as part of the male/female binary. 
 
-![stackedArea](../assets/img/stackedArea.jpg)
+![stackedArea](../assets/img/gubernatorial.jpg)
 
 While male candidates still maintained their overwhelming majority by 2018, the graph above shows a promising trend: the proportion of female candidates running for both congress and their state legislatures is going up. It is also important to note that the number of candidates of unspecified gender seemed to decrease, but more research needs to be done on this front in terms of what is contributing to this change. 
 
