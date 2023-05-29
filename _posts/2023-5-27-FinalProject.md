@@ -21,5 +21,5 @@ My ultimate decision to compile this project was fueled by my passions to never 
 
 
 # Section 1: Welcome to High School Debate
-![nsdalogo](../assets/img/NSDAlogo.jpg)
-![debatespeaker](../assets/img/debatespeaker.jpg)
+![nsdalogo](../assets/img/NSDA.jpg)
+
